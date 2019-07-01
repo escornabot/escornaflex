@@ -9,3 +9,5 @@ añade el lector de RFID, o nuevas aplicaciones que irán apareciendo.
 
 Toda la [información en este documento PDF](EscornaFlexV1_2019_ESP.pdf).
 
+Aquí los [STL para imprimir](stl).
+
